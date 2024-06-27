@@ -1,5 +1,7 @@
 # Git, Docker and Postgres Workshop
 
+
+
 A hands-on workshop to explain the basics of Git, Docker, 
 and Postgres. In this, you will learn the foundations of using 
 git for project collaboration, docker for app containerization, 
@@ -14,6 +16,8 @@ and postgres for storing and retrieving application data.
 - Docker Compose
 
 ##### GitHub account
+- git config --global user.email "youremail" (Configure your email)
+- git config --global user.name "your username" (Configure your username)
 - Create an account on [GitHub](https://github.com/join) (if you don't already have one)
 - Fork [this](https://github.com/UniCourt/Search-Workshop1) repository and then clone it to your machine
 - You can refer [this](https://docs.github.com/en/get-started/quickstart/fork-a-repo) guide to understand how to fork and clone
